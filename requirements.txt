@@ -1,0 +1,12 @@
+accelerate
+datasets==2.13.2
+torch
+tqdm
+transformers
+evaluate
+nltk
+spacy==2.1.0
+neuralcoref
+dill==0.3.6
+multiprocess==0.70.14
+wandb
